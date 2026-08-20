@@ -127,8 +127,15 @@ App Android nativo de destinos turísticos.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EduardaBedetti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=8957e5&title_color=8957e5&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaBedetti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8957e5&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardaBedetti&theme=tokyonight" width="86%" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardaBedetti&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardaBedetti&theme=tokyonight" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardaBedetti&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EduardaBedetti&theme=tokyonight&utcOffset=-3" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardaBedetti&theme=tokyo-night&bg_color=0D1117&color=8957e5&line=8957e5&point=ffffff&area=true&hide_border=true" width="92%" />
 
 </div>
 
