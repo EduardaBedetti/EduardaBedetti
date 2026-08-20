@@ -104,7 +104,7 @@ Vision testing app for Android TV, turning any TV into a clinical-grade optotype
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 [Evellyn](https://github.com/EduardaBedetti/Evellyn)
+#### 🤖 [SLA Dashboard](https://github.com/EduardaBedetti/sla-dashboard-streamlit)
 Python SLA dashboard with live Google Sheets integration, per-company metrics, operational alerts and CSV export.
 
 `Python` `Streamlit` `Pandas`
