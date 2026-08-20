@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eduarda%20Bedetti&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=520&lines=Web%2C+mobile+and+data+automation;JavaScript+%7C+TypeScript+%7C+Python+%7C+Kotlin;Always+building+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8957E5&center=true&vCenter=true&width=520&lines=Web%2C+mobile+and+data+automation;JavaScript+%7C+TypeScript+%7C+Python+%7C+Dart;Always+building+something+new" />
 
 <br/>
 
@@ -18,13 +18,13 @@
 name:     Eduarda Bedetti
 field:    Software Development
 focus:    Web · Mobile · Data automation
-stack:    JavaScript, TypeScript, Python, Kotlin, Dart
+stack:    JavaScript, TypeScript, Python, Dart
 learning: React, API architecture and clean code practices
 goal:     grow as a full stack developer
 ```
 
 - 💻 Building end-to-end applications — from the database to the screen
-- 📱 Shipped for web, native Android (Kotlin) and Flutter
+- 📱 Shipped for web and mobile with Flutter, including Android TV
 - 📊 Into automation: turning messy spreadsheets and CSVs into dashboards that actually help
 - 🤝 Some of these projects came from real client needs, not just coursework
 - 💬 Happy to talk about code, career or a new project
@@ -38,7 +38,6 @@ goal:     grow as a full stack developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
