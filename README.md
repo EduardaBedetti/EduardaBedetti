@@ -76,10 +76,10 @@ Foreign trade process management system with role-based access control (Admin / 
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [Dashboard_SLA](https://github.com/EduardaBedetti/Dashboard_SLA)
-SLA dashboard for Jira tickets imported from CSV, consolidating multiple teams into operational metrics — plus a Python rewrite.
+#### 🏦 [API-BANCARIA](https://github.com/EduardaBedetti/API-BANCARIA) ![](https://img.shields.io/badge/-in_progress-yellow)
+Banking REST API covering accounts, transfers, Pix and an append-only audit trail, with atomic transactions and money handled in integer cents.
 
-`JavaScript` `Python` `Pandas`
+`Node.js` `Express` `REST APIs`
 
 </td>
 </tr>
